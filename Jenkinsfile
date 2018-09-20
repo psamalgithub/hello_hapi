@@ -20,7 +20,6 @@ pipeline {
             steps {
                 echo 'Testing...'
                 echo 'npm test completed'
-                #sh 'npm test'
             }
         }
     }
